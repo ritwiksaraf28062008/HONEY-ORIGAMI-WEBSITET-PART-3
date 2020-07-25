@@ -1,0 +1,57 @@
+.origami1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row ;
+    align-self: flex-end;
+    align-content: space-between;
+    background-color : #000000
+    
+} 
+
+.origami2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row ;
+    align-self: flex-end;
+    align-content: space-between;
+    background-color : #000000
+    
+} 
+.written{
+
+    background-color :#63f237
+
+}
+
+.items:hover img{
+    
+    opacity: 0.4  ;
+
+}
+
+.items img{
+
+    opacity: 1  ;
+
+
+}
+
+A:link{
+
+    color: brown;
+    
+
+}
+A:visited{
+
+    color: white;
+}
+
+.items{
+
+    border:solid;
+    border-color: lightcoral;
+    
+}
